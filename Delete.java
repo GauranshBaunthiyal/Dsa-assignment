@@ -12,7 +12,6 @@ public class Delete {
         for(int i=0; i<n; i++){
             arr[i]= sc.nextInt();
         }
-        //Input the position of the element to be deleted
         System.out.println("Enter the position of the element to be deleted");
         int pos= sc.nextInt();
         //Shift the elements to the left
