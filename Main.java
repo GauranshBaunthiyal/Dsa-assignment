@@ -12,7 +12,6 @@ public class Main{
         for(int i=0; i<n; i++){
             arr[i]= sc.nextInt();
         }
-        //Input the position of the element to be inserted
         System.out.println("Enter the position where the element is to be inserted");
         int pos= sc.nextInt();
         //Input the element to be inserted
