@@ -19,6 +19,7 @@ public class PowerRecursion {
         //Input b
         System.out.println("Enter the value of b");
         int b= sc.nextInt();
+        //Printing the answer
         System.out.println(a + " Raised to the power " + b + " is: " + power(a,b));
         System.out.println();
         sc.close();
