@@ -22,5 +22,7 @@ public class FrequencyInArray {
         for(int num: freq.keySet()){
             System.out.print(num + ":" + freq.get(num) + " ");
         }
+        System.out.println();
+        sc.close();
     }
 }

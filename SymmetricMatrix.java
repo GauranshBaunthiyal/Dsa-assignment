@@ -41,6 +41,8 @@ public class SymmetricMatrix {
         else{
             System.out.println("Not a symmetric matrix");
         }
+        System.out.println();
+        sc.close();
     }
     }
     
